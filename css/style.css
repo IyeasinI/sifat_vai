@@ -1,0 +1,63 @@
+/* <--// number of section i start >>--> */
+
+.hero_section{float: left;width: 100%; background-image: url("../img/banner/banner1.png");background-position: center;background-repeat: repeat;background-size: cover;background: linear-gradient(to left right, #F05A22, #f0592200);}
+.common_wrap{margin: 0 auto;max-width: 1200px;padding: 0 20px;}
+.hero_content{float: right;width: 40%;margin: 200px 0;}
+.hero_content h2{text-align: right;font-size: 60px;line-height: 80px;}
+.hero_content p{text-align: right;font-size: 20px;line-height: 30px;}
+.hero_button{float: right;margin-top: 20px;}
+.hero_button a{text-decoration: none; background-color: #F15B22; padding: 20px 40px;font-size: 20px;color: #ffff;}
+
+
+/* <--// number of section i end >>--> */
+/* <--// number of section ii start >>--> */
+
+.previous_section{float: left;width: 100%;}
+.previous_figure{float: left;width: 55%;margin: 100px 0;}
+.previous_figure img{float: left;width: 100%;}
+.previous_content{float: right;width: 40%;margin: 250px 0;}
+.previous_content h2{font-size: 50px;}
+.previous_content p{font-size: 20px;line-height: 30px;}
+.previous_content ul li{list-style: none;line-height: 50px;font-size: 20px;}
+
+
+/* <--// number of section ii end >>--> */
+/* <--// number of section iii start >>--> */
+
+.plan_section{float: left;width: 100%;}
+.plan_heading{float: left;width: 100%;margin: 50px;}
+.plan_heading h2{text-align: center;font-size: 50px;}
+
+.plan_item_wrap{float: left;width: 25%;}
+.plam_item_figure{margin: 0 auto;width: 30%;}
+.plam_item_figure img{float: left;width: 100%;}
+.plan_item_content{float: left;width: 100%;}
+.plan_item_content h2{text-align: center;font-size: 30px;}
+.plan_item_content p{text-align: center;}
+
+.positive_wrap{float: left;width: 100%;background:linear-gradient(100deg, #F05A22, #e66f4300), url("../img/watch.png");background-position: center;background-repeat: no-repeat;background-size: cover; padding: 0 100px;margin: 200px 0;border-radius: 20px;}
+.positive_text{float: left;width: 50%;margin-top: 30px;}
+.positive_text h2{float: left;width: 100%;font-size: 50px;color: #FFFFFF;}
+.call_button{float: left;width: 100%;margin: 50px 0 100px 0;}
+.call_button a{text-decoration: none;background-color: #FFFFFF;color: #F15B22;font-size: 20px;padding: 20px 50px;border-radius: 10px;}
+
+
+/* <--// number of section iii end >>--> */
+/* <--// number of section iv start >>--> */
+
+.footer_section{float: left;width: 100%;background-color: #151414;}
+.footer_inner{float: left;width: 100%;margin: 100px 0;}
+.footer_future{float: left;width: 30%;}
+.footer_future h2{color: #FFFFFF;font-size: 50px;}
+.footer_future p{color: #FFFFFF;font-size: 20px;}
+.footer_icon{float: left;width: 50%;display: flex;justify-content: space-between;}
+
+
+.footer_subscribe{float: right;width: 30%;}
+.footer_subscribe h2{font-size: 40px;color: #FFFFFF;line-height: 30px;}
+.footer_subscribe input{font-size: 20px;color: #FFFFFF;width: 100%;padding: 30px 20px;background: none;border: 1px solid #c2c2c2;border-radius: 10px;}
+.sub_button{float: left;width: 100%;margin: 50px 0 100px 0;}
+.sub_button a{text-decoration: none;background-color: #FFFFFF;color: #F15B22;font-size: 20px;padding: 20px 50px;border-radius: 10px;}
+
+
+/* <--// number of section iv end >>--> */
